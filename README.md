@@ -1,5 +1,5 @@
 # Weather-app-flutter
 
-A new Flutter project.
+Weather app that tells you about weather forecast
 
 
